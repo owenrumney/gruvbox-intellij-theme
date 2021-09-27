@@ -3,10 +3,10 @@
     <option name="ADDED_LINES_COLOR" value="79740e" />
     <option name="ANNOTATIONS_COLOR" value="928374" />
     <option name="CARET_ROW_COLOR" value="3c3836" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="1d2021" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="0d1117" />
     <option name="DOCUMENTATION_COLOR" value="282828" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="665c54" />
-    <option name="GUTTER_BACKGROUND" value="1d2021" />
+    <option name="GUTTER_BACKGROUND" value="0d1117" />
     <option name="INDENT_GUIDE" value="665c54" />
     <option name="LINE_NUMBERS_COLOR" value="928374" />
     <option name="METHOD_SEPARATORS_COLOR" value="2a2a2a" />
@@ -959,7 +959,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="fbf1c7" />
-        <option name="BACKGROUND" value="1d2021" />
+        <option name="BACKGROUND" value="0d1117" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
